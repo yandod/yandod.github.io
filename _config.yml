@@ -1,0 +1,11 @@
+# Site settings
+title: Yusuke Ando a.k.a yando
+email: yandod@gmail.com
+description: "This is my personal profile website."
+baseurl: ""
+url: "http://yandod.github.io/"
+username: yandod
+
+# Build settings
+markdown: kramdown
+permalink: pretty
