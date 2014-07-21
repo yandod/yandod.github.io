@@ -7,5 +7,5 @@ url: "http://yandod.github.io/"
 username: yandod
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
