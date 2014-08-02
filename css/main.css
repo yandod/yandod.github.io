@@ -255,6 +255,12 @@ a:visited { color: #205caa; }
 
 .post pre.terminal code { background-color: #333; }
 
+.post img {
+  width:100%;
+  padding:10px;
+}
+
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
@@ -395,7 +401,6 @@ a:visited { color: #205caa; }
   .post-content blockquote { padding-left: 10px; }
   .post-content ul,
   .post-content ol { padding-left: 10px; }
-
   .site-footer .column {
     float: none;
     clear: both;
