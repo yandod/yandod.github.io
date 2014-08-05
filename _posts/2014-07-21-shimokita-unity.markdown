@@ -13,6 +13,18 @@ Shimokita.Unityは下北沢オープンソースカフェでだいたい隔週�
 
 - [OSSカフェ VR部](https://www.facebook.com/groups/483013255151184/)
 
+## Shimokita.Unity #5 Inputで入力を扱う
+
+キーボードやゲームパッド、モバイル関係の入力を一手に担うInputをおさらいしました。
+自由自在にコントロールできるプログラムを作れるようになりましょう。
+
+- [Shimokita.Unity #5 - OSSCafe VR部](https://www.facebook.com/events/314856602026514/?ref_dashboard_filter=past)
+- [UnityのInputで入力を扱う - Qiita](http://qiita.com/yando/items/c406690c9ad87ecfc8e5)
+
+<script async class="speakerdeck-embed" data-id="3c5e0d10fee30131dcdb4e3181ddc85d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe src="http://new.livestream.com/accounts/1839740/events/3063002/videos/58200925/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
 ## Shimokita.Unity #4 Mecanimでアニメーション
 
 キャラクタに好きなアニメーションを実行させる際に必要になるMecanimの基本的な利用方法がテーマ。
