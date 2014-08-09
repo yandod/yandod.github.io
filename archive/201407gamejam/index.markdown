@@ -27,7 +27,7 @@ date:   2014-08-09 10:00:00 +9:00
 
 ### プレイ
 
-- <a href="http://unityroom.com/games/play/233">Webブラウザ上でプレイ</a>
+- <a href="https://s3-ap-northeast-1.amazonaws.com/yando-unity-public/bika/Bika.html">Webブラウザ上でプレイ</a>
 - <a href="https://s3-ap-northeast-1.amazonaws.com/yando-unity-public/bika/Bika_Win.zip">Windows版</a>
 - <a href="https://s3-ap-northeast-1.amazonaws.com/yando-unity-public/bika/Bika_Mac.app.zip">Mac OSX版</a>
 
