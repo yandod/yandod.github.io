@@ -5,6 +5,7 @@ description: "This is my personal profile website."
 baseurl: ""
 url: "http://yandod.github.io/"
 username: yandod
+domain: "yandod.github.io"
 
 # Build settings
 markdown: redcarpet
