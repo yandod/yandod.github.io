@@ -64,6 +64,19 @@ PHPカンファレンスの実行委員をしております。
 - mysqlnd 徹底解説
 
 
+なお講演種別の内訳はこんな状況です。
+
+```
+30分 (通常セッション)	33
+5分程度 (ライトニングトーク大会 無差別級)	11
+5分程度 (CMS、ECエンジンなどPHPで作られたソフトウエアに関する内容)	3
+5分程度 (データベース、検索、KVS、エディタなどPHPに関連したソフトウエアに関する内容)	1
+5分程度 (フレームワークアップデート)	1
+```
+
+通常セッションは特に高い競争率となっています。
+
+
 応募フォームはこんな形になっております。皆様からの応募をお待ちしております。
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGJrZHFRY3ZiWUgxVmVfSmJ1dDZheFE6MA" width="760" height="955" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
