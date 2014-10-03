@@ -7,7 +7,9 @@ categories: event
 
 ![ss](/images/joindin01.png)
 
-欧米のPHP系のカンファレンスで幅広く使われているサービスの1つが joind.in です。
+[Start - Joind.in](https://joind.in/)
+
+欧米のPHP系のカンファレンスで幅広く使われているサービスの1つが [joind.in](https://joind.in/) です。
 joind.in にはイベントの主催者、講演者、参加者がイベントをより有意義にする為の次のような機能があります。
 
 - イベントの開催者がイベントと講演の情報を登録する機能
