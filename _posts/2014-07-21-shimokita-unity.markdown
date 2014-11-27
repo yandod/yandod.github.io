@@ -13,6 +13,18 @@ Shimokita.Unityは下北沢オープンソースカフェでだいたい隔週�
 
 - [OSSカフェ VR部](https://www.facebook.com/groups/483013255151184/)
 
+## Shimokita.Unity #6 パーティクルでエフェクト
+
+爆発やオーラ、炎などさまざまなエフェクトに使われるパーティクルシステムについて紹介しました。
+フリーのアセットなどを参考に基礎を習得しましょう。
+
+- [Shimokita.Unity #6.5 - OSSCafe VR部](https://www.facebook.com/events/646087062170773/?ref=5)
+- [Unityのパーティクルでエフェクトを演出 - Qiita](http://qiita.com/yando/items/b6b5c6922b312f1afbd1)
+
+<script async class="speakerdeck-embed" data-id="ca4adba04fa40132a0af3254ced17dea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe src="http://new.livestream.com/accounts/1839740/events/3063002/videos/68306374/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
 ## Shimokita.Unity #5 Inputで入力を扱う
 
 キーボードやゲームパッド、モバイル関係の入力を一手に担うInputをおさらいしました。
