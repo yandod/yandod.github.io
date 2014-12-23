@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shimkita.Unity - 隔週日曜開催のUnity勉強会"
+title:  "Shimokita.Unity - 隔週日曜開催のUnity勉強会"
 date:   2014-07-21 10:00:00 +9:00
 categories: unity
 ---
