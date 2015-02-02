@@ -73,7 +73,7 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 いちおうパッケージにもしてあります。
 
-[![](/images/itosan_unity.png)](https://dl.dropboxusercontent.com/u/6626376/UnityAsset/ItosanHuman.unitypackage)
+<a href="https://dl.dropboxusercontent.com/u/6626376/UnityAsset/ItosanHuman.unitypackage"><img src="/images/itosan_unity.png" style="width:245px;height:248px"></a>
 
 # まとめ
 
