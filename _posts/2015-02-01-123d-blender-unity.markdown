@@ -71,6 +71,10 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 <iframe style="width:100%; min-height:315px" src="https://www.youtube.com/embed/xEQgmhpPB6M" frameborder="0" allowfullscreen></iframe>
 
+いちおうパッケージにもしてあります。
+
+[![](/images/itosan_unity.png)](https://dl.dropboxusercontent.com/u/6626376/UnityAsset/ItosanHuman.unitypackage)
+
 # まとめ
 
 要点だけの紹介でしたが、Blender入門初日の自分でも実際に動作するモデルを作成できました。
