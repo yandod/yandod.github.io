@@ -49,4 +49,6 @@ Windows版の123D Catchはアップロードする画像を任意のデジカメ
 <iframe style="width:100%; min-height:315px" src="https://www.youtube.com/embed/vm2Ci4JVtiM" frameborder="0" allowfullscreen></iframe>
 
 驚異的な仕上がりですね。
+ちなみに画像で紹介していた自分自身のデータはどうしてもリギングがエラーになってしまい、別人です。
+
 Mixiamoはダウンロードに料金がかかりますが、この手軽さを見ると課金してもいいなと思えてきます。
