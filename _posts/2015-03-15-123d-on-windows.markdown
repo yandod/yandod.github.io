@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "123D CatchのWindows版で友人の3Dモデル化が捗った"
+date:   2015-03-15 12:00:00 +9:00
+categories: blog
+---
+
+前回の記事ではスマホアプリを使った友人の3Dモデル化を紹介しました。
+
+- [友人をスマホで撮影して3Dモデル化してUnityで動かしてみた - Yusuke Ando a.k.a yando](http://yandod.github.io/blog/2015/02/01/123d-blender-unity/)
+
+以降、より手早くきれいなモデルを作成する方法を模索していましたが、答えが見つかりつつあります。
+それは[Windows版の123D Catch](http://www.123dapp.com/catch)です。
+
+スマートフォン版は当然、スマホに搭載されたカメラで写真を撮影し、その画像を元にモデルを生成します。
+実際の生成はサーバー側で行われているようです。
+Windows版の123D Catchはアップロードする画像を任意のデジカメなどで撮影した画像が指定できます。
+よって高画質な写真を使うことでモデルの品質を上げることができます。
+また人物ではなく建造物のような巨大なデータを空撮画像から作るといった実例もあるようです。
+
+今回はミラーレスで撮影した画像を読み込ませてみると次のようになりました。(3DViewをクリックでグリグリ操作可能)
+
+![ito](/images/123d-win01.png)
+
+道路などのテクスチャや人物の形状などがかなり向上しています。
+画像から算出したカメラの位置が表示され、どのようにモデルが作成されたかが推測できる点が違います。
+作成したデータはスマートフォン版と同様にWebにアップロードされます。
+
+<iframe id='embed3DViewer'  src='http://www.123dapp.com/fullpreview/embedViewer?assetId=3533109&size=medium' scrolling='no' style='border:none; width: 495px; height: 555px'> </iframe>
+
+さらにWindows版だけの機能として不要なオブジェクトなどを削除する、簡易的なエディタ機能があります。
+リグを入れるのには邪魔になる背景部分を矩形選択や自由選択で簡単に編集できるのでBlenderなどを使うよりも手軽です。
+
+![ito](/images/123d-win02.png)
+
+あとはデータをOBJ形式などでダウンロードしBlenderに読み込ませてリギングを行うことになります。
+
+また今回は折角なのでMixiamoによるリギングも試してみました。手順は次のとおりです。
+
+![ito](/images/123d-win03.png)
+
+- 123D CatchからOBJ形式でエクスポート（ダウンロード)
+- Blenderにインポートし、テクスチャをEmbedしたfbxにエクスポート
+- Mixiamoにアップロードし、リギング用のマーカーを設定
+- エラーになる場合はマーカーの位置を調整
+
+その結果は次のような形です。
+
+<iframe style="width:100%; min-height:315px" src="https://www.youtube.com/embed/vm2Ci4JVtiM" frameborder="0" allowfullscreen></iframe>
+
+驚異的な仕上がりですね。
+Mixiamoはダウンロードに料金がかかりますが、この手軽さを見ると課金してもいいなと思えてきます。
