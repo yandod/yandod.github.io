@@ -16,7 +16,7 @@ Recapなどのキャプチャ製品をさらに発展させたソフトウェア
 
 ![ito](/images/memento-01.png)
 
-- [Autodesk Memento](http://memento.autodesk.com/assets/home_slider/garuda_morph-v3-da3e37d5488e50091541e11b77f4f267.png)
+- [Autodesk Memento](http://memento.autodesk.com/)
 
 Mementoの特徴としては下記のような点が挙げられます。
 
@@ -29,7 +29,7 @@ Mementoの特徴としては下記のような点が挙げられます。
 
 実際の動作の流れは動画で見たほうがわかりやすそうです。
 
-<div id="fb-root"></div><div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/video.php?v=294738837354631&amp;set=vb.195716063923576&amp;type=1"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/video.php?v=294738837354631&amp;set=vb.195716063923576&amp;type=1">Video</a></div></div>
+<iframe style="width:100%; min-height:315px" src="https://www.youtube.com/embed/iPxZkSswVs0" frameborder="0" allowfullscreen></iframe>
 
 今回は123D Catch用にミラーレスで撮影した画像を再度処理してみました。
 処理時間は30分以上かかったとおもいますが、出来上がりのデータは驚異的な精度。
