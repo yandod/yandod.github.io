@@ -8,13 +8,11 @@ layout: default
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
   <script>
-    window.fbAsyncInit = function() {
       FB.init({
         appId      : '945719255440691',
         xfbml      : true,
         version    : 'v2.2'
       });
-    };
   </script>
   <article class="post-content">
   {{ content }}
