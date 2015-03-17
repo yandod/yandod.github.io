@@ -7,7 +7,14 @@ layout: default
     <h1>{{ page.title }}</h1>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
-
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '945719255440691',
+        xfbml      : true,
+        version    : 'v2.2'
+      });
+    };
   <article class="post-content">
   {{ content }}
   </article>
