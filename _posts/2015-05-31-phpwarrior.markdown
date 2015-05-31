@@ -7,12 +7,11 @@ categories: note
 
 [yandod/php-warrior](https://github.com/yandod/php-warrior)
 
-I loved "Ruby Warrior" which is ruby based coding game.
-Both web version and, original gem version are awesome work.
+I love "[ruby-warrior](https://github.com/ryanb/ruby-warrior/)" which is ruby based coding game.
+Both [web version by bloc](https://www.bloc.io/ruby-warrior/#/) and, original gem version are awesome work.
 
-Also I found Python version implementation of RubyWarrior.
+Also I found [python-warrior](https://github.com/arbylee/python-warrior).
 That inspired me to implement RubyWarrior into PHP.
-[arbylee/python-warrior](https://github.com/arbylee/python-warrior)
 
 
 The game is commding warrior to crime the 2 type of towers.
