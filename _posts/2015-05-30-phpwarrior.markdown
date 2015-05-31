@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RubyWarriorをPHPに移植した"
+title:  "RubyWarriorをPHPに移植した #phpwarrior"
 date:   2015-05-30 12:00:00 +9:00
 categories: blog
 ---
