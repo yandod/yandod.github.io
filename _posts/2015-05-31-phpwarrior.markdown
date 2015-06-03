@@ -14,8 +14,8 @@ Also I found [python-warrior](https://github.com/arbylee/python-warrior).
 That inspired me to implement RubyWarrior into PHP.
 
 
-The game is commding warrior to crime the 2 type of towers.
-both 2 towers include 19floors are now available to hack in PHP.
+The game is commanding warrior to climb to top of 2 type of towers.
+19-floors in total are now available to hack in PHP.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pt_qerDO28c" frameborder="0" allowfullscreen></iframe>
 
