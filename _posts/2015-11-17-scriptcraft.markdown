@@ -5,8 +5,10 @@ date:   2015-11-17 12:00:00 +9:00
 categories: blog
 ---
 
+![books](/images/minecraftbook.png)
+
 マインクラフトのMOD作成といえばJavaを使うのが本来の方法です。
-それよりもお手軽なJavaScriptを使う方法があると知り試して見ました。
+それよりもお手軽なJavaScriptを使う方法があるとアメリカの書籍で知り試して見ました。
 
 ## ScriptCraft
 
