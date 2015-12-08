@@ -3,6 +3,7 @@ layout: post
 title:  "MSXの思い出をScratchに転生させてみた"
 date:   2015-12-10 12:00:00 +9:00
 categories: blog
+published: false
 ---
 
 この記事は[MSX Advent Calendar 2015](http://www.adventar.org/calendars/920)の10日目です。
