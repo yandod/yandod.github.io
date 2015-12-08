@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "MSXの思い出をScratchに転生させてみた"
+date:   2015-12-10 12:00:00 +9:00
+categories: blog
+---
+
+この記事は[MSX Advent Calendar 2015](http://www.adventar.org/calendars/920)の10日目です。
+
+MSX時代の思い出の一品に再び触れてみたい、いや０から打ち込みつつトライアンドエラーを繰り返すあの感覚が恋しい方は少なくないかと思います。
+
+BASICにこだわるのであればプチコン、VRなどの展開を視野に入れればUnityなどツールには事欠かない昨今です。
+ただツールの習得が面倒だったり、完成した作品の配布が難しい場合があるのが悩みどころです。
+
+そこで今回は子どもでも扱えて、作品の公開も簡単なScratchでMSX-FAN時代の一品を転生させてみました。見てのとおり、[NAGI-P SOFTさんのTILE GOLF](http://www.nagi-p.com/v1/msxprdct.html)です。
+
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/70032572/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
+移植と言わずに転生としているのはコードレベルでの共通性はまったくなく、スキャンされたMSX-FANの紙面のコードを見ながら０から作った形だからです。
+今回、転生の元となったのはこれです。見ているだけでワクワクしますね。
+
+![](/images/list.jpg)
+
+ちなみにMSX-FANのスキャンはInternet Archiveに一部分あるようです。
+
+[MSX Fan Magazine : Free Texts : Download & Streaming : Internet Archive](https://archive.org/details/msx-fan-magazine)
+
+Scratchはビジュアルな環境ですので、実際のプログラムはこんな感じです。
+
+![image](/images/tilegolf.png)
+
+再現というのはおこがましいものではありますが、雑誌のリストを見ながらプログラムを作るという作業を久々にできてとても楽しかったです。
+皆様も昔のリストを掘り返して別のプラットフォームに転生させてみてはどうでしょうか。
