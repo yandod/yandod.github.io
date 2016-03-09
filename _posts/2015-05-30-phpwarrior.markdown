@@ -7,6 +7,8 @@ categories: blog
 
 Rubyで作られたRubyWarriorというゲームをPHPに移植しました。
 
+<iframe src="https://ghbtns.com/github-btn.html?user=yandod&repo=php-warrior&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 [yandod/php-warrior](https://github.com/yandod/php-warrior)
 
 Rubyで実装して２つの塔を攻略していくゲームですが、晴れてPHPでも攻略できるようになりました。
