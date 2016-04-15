@@ -14,6 +14,7 @@ categories: blog
 元の詩は[公式サイト](http://www.jonathancoulton.com/wiki/The_Future_Soon/Lyrics)
 楽曲は[iTunes](https://itunes.apple.com/jp/album/where-tradition-meets-tomorrow/id65076298)
 
+<pre>
 Last week I left a note on Laura's desk
 It said I love you, signed, anonymous friend
 Turns out she's smarter than I thought she was
@@ -115,3 +116,4 @@ I've never seen it quite so clear
 And when my heart is breaking I can close my eyes and it's already here
 
 (＊)　くりかえし
+</pre>
