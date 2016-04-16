@@ -107,7 +107,7 @@ When a crazy cyborg wants to make you his robot bride
 僕の中のサーボが音を立てる
 彼女は叫んで逃げ出すけど
 どこにも隠れられない
-狂ったロボット軍団が彼女を花嫁にしようとしている
+狂ったサイボーグが彼女を花嫁にしようとしている
 
 Well it's gonna be the future soon
 And I won't always be this way
