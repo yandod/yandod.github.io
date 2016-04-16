@@ -45,6 +45,7 @@ And when my heart is breaking I can close my eyes and it's already here
 僕だって今のままじゃない
 弱くて、変で、全然科学的じゃない
 未来はすぐそこさ
+これまでにないくらいはっきりしてる
 辛い時は目を閉じればもうそこは
 
 I'll probably be some kind of scientist
