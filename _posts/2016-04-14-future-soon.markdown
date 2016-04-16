@@ -14,6 +14,16 @@ categories: blog
 元の詩は[公式サイト](http://www.jonathancoulton.com/wiki/The_Future_Soon/Lyrics)
 楽曲は[iTunes](https://itunes.apple.com/jp/album/where-tradition-meets-tomorrow/id65076298)
 
+Jonathan Coulton (通称 JoCo)といえばPoRTAL、Left 4 Deadへの楽曲提供が有名ですね。
+
+- [Re: Your Brains](https://www.youtube.com/watch?v=t1ol8EIsiTQ)
+- [Still Alive](https://www.youtube.com/watch?v=QoMwtSqc2Sg)
+
+彼の楽曲は全部Creative Commonsで公開されているのでリミックスが多いのも特徴です。
+彼の紹介の記事、昔書いたと思ったらみつからないのでそのうち書く。
+
+## 歌詞
+
 <pre>
 Last week I left a note on Laura's desk
 It said I love you, signed, anonymous friend
