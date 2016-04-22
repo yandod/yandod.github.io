@@ -5,7 +5,10 @@ date:   2015-02-01 12:00:00 +9:00
 categories: blog
 ---
 
-![ito](/images/itosan_blend.png)
+<figure>
+<img src="{{ site.url }}/images/itosan_blend.png"/>
+<caption>Blenderで骨が入った伊藤さん</caption>
+</figure>
 
 Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
@@ -29,7 +32,10 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 今回、友人の小島さんが撮影した友人の伊藤さんは次のようなデータになりました。iPhone5での撮影です。
 
-![ito](/images/ito_123d.png)
+<figure>
+<img src="{{ site.url }}/images/ito_123d.png"/>
+<caption>試行錯誤の結晶</caption>
+</figure>
 
 - [2014-07-27-18-27-10 3D Model Made with 123D 123D Catch](http://www.123dapp.com/catch/2014-07-27-18-27-10/2583019)
 
@@ -37,7 +43,10 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 # Blenderで背景を削除し、頂点数を削減する。
 
-![](/images/itosan_blend2.png)
+<figure>
+<img src="{{ site.url }}/images/itosan_blend2.png"/>
+<caption>Blenderでの作業</caption>
+</figure>
 
 123DからダウンロードしたデータをBlenderにインポートすると、その巨大さに圧倒されます。今回の場合ですと、 **頂点数が39万、ポリゴン数が78万** ということでUnity上での実用には耐えません。また背景部分のゴミが付いているのもキャラクターとして使うのには邪魔です。
 
@@ -52,11 +61,17 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 不要な部分の選択と削除はやや根気が必要でしたが、頂点数の削除はスライダーでパラメータを調整しつつプレビューもできるのでとてもカンタンでした。この作業により頂点数は1500前後、ポリゴン数も3000弱に削減できました。これくらいになるとUnityへのインポートもあっというまです。
 
-![](/images/itosan_blend3.png)
+<figure>
+<img src="{{ site.url }}/images/itosan_blend3.png"/>
+<caption>Blenderでの作業の続き</caption>
+</figure>
 
 # Blenderでボーンの埋め込みを行う。
 
-![](/images/itosan_blend4.png)
+<figure>
+<img src="{{ site.url }}/images/itosan_blend4.png"/>
+<caption>ボーンの埋め込み</caption>
+</figure>
 
 次にMecanimなどで動かすためのボーンの埋め込みです。こちらはMixiamoを使えば自動で出来るのですが、そこそこの金額がかかってきます。今日からBlenderを始めた人間には荷が重いかもしれませんが、ボーンの埋め込みを行ってみます。実際には下記のビデオを見ながら試行錯誤してみたのですが、2時間とかからず作業が完了しました。
 
@@ -78,7 +93,7 @@ Unityなどでゲーム作りをする上で欠かせないのが3Dモデル。
 
 いちおうパッケージにもしてあります。
 
-<a href="https://dl.dropboxusercontent.com/u/6626376/UnityAsset/ItosanHuman.unitypackage"><img src="/images/itosan_unity.png" style="width:245px;height:248px"></a>
+<a href="https://dl.dropboxusercontent.com/u/6626376/UnityAsset/ItosanHuman.unitypackage"><img src="/images/itosan_unity.png" style="width:245px;height:248px">download</a>
 
 # まとめ
 

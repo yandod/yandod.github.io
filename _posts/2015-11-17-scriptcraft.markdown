@@ -5,7 +5,10 @@ date:   2015-11-17 12:00:00 +9:00
 categories: blog
 ---
 
-![books](/images/minecraftbook.png)
+<figure>
+<img src="{{ site.url }}/images/minecraftbook.png"/>
+<caption>books</caption>
+</figure>
 
 マインクラフトのMOD作成といえばJavaを使うのが本来の方法です。
 それよりもお手軽なJavaScriptを使う方法があるとアメリカの書籍で知り試して見ました。
@@ -20,7 +23,7 @@ ScriptCraftはJavaScriptを通じてCanaryModやBukkit-compatibleなModのAPIを
 
 ## インストール
 
-### CanaryModのインストール
+## CanaryModのインストール
 
 まずはCanaryModをインストールします。CanaryModは1.8系互換のものも開発中ですが安定版は1.7系です。
 公式サイトから1.7系の最新版のjarをダウンロードしてCanaryMod用のディレクトリに保存します。
@@ -109,7 +112,7 @@ Found 0 plugins; total: 0
 
 終了する場合はサーバーコンソールに<code>stop</code>と打ちます。
 
-### ScriptCraftのインストール
+## ScriptCraftのインストール
 
 次にScriptCraftをインストールします。
 

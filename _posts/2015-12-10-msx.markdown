@@ -14,12 +14,15 @@ BASICにこだわるのであればプチコン、VRなどの展開を視野に�
 
 そこで今回は子どもでも扱えて、作品の公開も簡単なScratchでMSX-FAN時代の一品を転生させてみました。見てのとおり、[NAGI-P SOFTさんのTILE GOLF](http://www.nagi-p.com/v1/msxprdct.html)です。
 
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/70032572/?autostart=false" frameborder="0" allowfullscreen></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/70032572/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
 移植と言わずに転生としているのはコードレベルでの共通性はまったくなく、スキャンされたMSX-FANの紙面のコードを見ながら０から作った形だからです。
 今回、転生の元となったのはこれです。見ているだけでワクワクしますね。
 
-![](/images/list.jpg)
+<figure>
+<img src="{{ site.url }}/images/list.jpg"/>
+<caption>懐かしさしかないリスト</caption>
+</figure>
 
 ちなみにMSX-FANのスキャンはInternet Archiveに一部分あるようです。
 
@@ -27,7 +30,11 @@ BASICにこだわるのであればプチコン、VRなどの展開を視野に�
 
 Scratchはビジュアルな環境ですので、実際のプログラムはこんな感じです。
 
-![image](/images/tilegolf.png)
+<figure>
+<img src="{{ site.url }}/images/tilegolf.png"/>
+<caption>Scratchでのプログラム</caption>
+</figure>
+
 
 再現というのはおこがましいものではありますが、雑誌のリストを見ながらプログラムを作るという作業を久々にできてとても楽しかったです。
 皆様も昔のリストを掘り返して別のプラットフォームに転生させてみてはどうでしょうか。

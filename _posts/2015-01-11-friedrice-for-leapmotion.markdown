@@ -5,7 +5,10 @@ date:   2015-01-11 12:00:00 +9:00
 categories: blog
 ---
 
-![ss](/images/FriedRice_Mac.png)
+<figure>
+<img src="{{ site.url }}/images/FriedRice_Mac.png"/>
+<caption>Mac版のSS</caption>
+</figure>
 
 2014年11月29日に開催されたOculus GameJamで開発したチャーハンを作るゲームが、全世界から150以上の応募の集まったオンラインのコンテストで17位という最終結果になりました。
 
@@ -15,13 +18,13 @@ categories: blog
 あくまで趣味で行っているゲーム開発で形になった結果を得ることが出来てとても嬉しく思っています。
 MacとWindowsに対応していてLEAP Motionがあれば遊べます。プラスアルファでOculusに対応したビルドも用意していますので、もし宜しければ遊んでやってください。
 
-<iframe src="//itch.io/embed/14880?dark=true&linkback=true" width="552" height="167" frameborder="0"></iframe>
+<iframe src="https://itch.io/embed/14880?dark=true&linkback=true" width="552" height="167" frameborder="0"></iframe>
 
 せっかくなので開発中のバージョンの映像などを。
 
 # 最初のバージョン (2014/11/17)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/lLnmjmkI8eQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLnmjmkI8eQ" frameborder="0" allowfullscreen></iframe>
 
 LEAP Motionの道具追跡を試してみたところ面白そうだったので、これで炒飯を炒める事が出来るのではと思ったのがきっかけ。
 フライパンのモデルデータは11/15に購入しているので、フライパンとLEAPのインテグレーションに2日ほど費やした形。
@@ -31,7 +34,7 @@ LEAP Motionの道具追跡を試してみたところ面白そうだったので
 
 # 背景とゲームルールを実装 (2014/11/17)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/n72zS9Vl5pw" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/n72zS9Vl5pw" frameborder="0" allowfullscreen></iframe>
 
 フライパンの動きが気に入ったので、米オブジェクトやキッチンをその日のうちに実装。
 一定の制限時間内でスコアを稼ぐ形式を検討しているが、得点ロジックやゲームの流れは特に煮詰まっていないバージョン。
@@ -40,7 +43,7 @@ LEAP Motionの道具追跡を試してみたところ面白そうだったので
 
 # GameJam前のプロトタイプ (2014/11/24)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/GO6q4AcIrJM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GO6q4AcIrJM" frameborder="0" allowfullscreen></iframe>
 
 オブジェクトの見た目が少しでも米に見えるようにするにはどうすればいいかを模索。
 ニコニコ動画でMMDを使った炒飯を作った人が採用していた立方体型のモデルに変更した。
@@ -50,7 +53,7 @@ LEAP Motionの道具追跡を試してみたところ面白そうだったので
 
 # Oculus GameJamバージョン (2014/11/30)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/djZ0dGvcFnE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/djZ0dGvcFnE" frameborder="0" allowfullscreen></iframe>
 
 チームメイトの@nyakagawan さんとの相談の中でゲーム性などを検討し、複数の種類の炒飯を作って得点を算出する形式に変更。
 
@@ -61,7 +64,7 @@ LEAP Motion 3DJamの締め切りも翌日だったのでこのバージョンを
 
 # セミファイナルバージョン (2015/01/07)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/BIZsFt6Q0HM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BIZsFt6Q0HM" frameborder="0" allowfullscreen></iframe>
 
 セミファイナルに選ばれたということで最終選考に備えて手直しをしたバージョン。
 時間がなくて調整しきれなかったモデルの改変やリザルト画面、ロゴなどをつくって作品としての体裁を調整。
@@ -70,7 +73,7 @@ LEAP Motion 3DJamの締め切りも翌日だったのでこのバージョンを
 
 # 米粒モデル化失敗作
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/6mAFQZbncfU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/6mAFQZbncfU" frameborder="0" allowfullscreen></iframe>
 
 GameJam後に抜本的に米粒の動きを変更するべく試作したバージョン。しかしながら処理能力的に目標の3000粒には届かないので放置中。
 Unity5の改良された物理エンジンで再挑戦したいが、現状のモデルでは対応できないコリジョンがあるようなので様子見。

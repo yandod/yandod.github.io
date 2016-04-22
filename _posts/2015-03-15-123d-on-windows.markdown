@@ -20,7 +20,10 @@ Windows版の123D Catchはアップロードする画像を任意のデジカメ
 
 今回はミラーレスで撮影した画像を読み込ませてみると次のようになりました。(3DViewをクリックでグリグリ操作可能)
 
-![ito](/images/123d-win01.png)
+<figure>
+<img src="{{ site.url }}/images/123d-win01.png"/>
+<caption>Windows版に読み込んだ様子</caption>
+</figure>
 
 道路などのテクスチャや人物の形状などがかなり向上しています。
 画像から算出したカメラの位置が表示され、どのようにモデルが作成されたかが推測できる点が違います。
@@ -31,13 +34,19 @@ Windows版の123D Catchはアップロードする画像を任意のデジカメ
 さらにWindows版だけの機能として不要なオブジェクトなどを削除する、簡易的なエディタ機能があります。
 リグを入れるのには邪魔になる背景部分を矩形選択や自由選択で簡単に編集できるのでBlenderなどを使うよりも手軽です。
 
-![ito](/images/123d-win02.png)
+<figure>
+<img src="{{ site.url }}/images/123d-win02.png"/>
+<caption>便利な編集機能</caption>
+</figure>
 
 あとはデータをOBJ形式などでダウンロードしBlenderに読み込ませてリギングを行うことになります。
 
 また今回は折角なのでMixiamoによるリギングも試してみました。手順は次のとおりです。
 
-![ito](/images/123d-win03.png)
+<figure>
+<img src="{{ site.url }}/images/123d-win03.png"/>
+<caption>リギングの結果</caption>
+</figure>
 
 - 123D CatchからOBJ形式でエクスポート（ダウンロード)
 - Blenderにインポートし、テクスチャをEmbedしたfbxにエクスポート

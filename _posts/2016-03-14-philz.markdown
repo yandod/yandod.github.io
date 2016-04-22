@@ -5,7 +5,10 @@ date:   2016-03-14 00:00:00 +9:00
 categories: blog
 ---
 
-![mohito](/images/mohito.jpg)
+<figure>
+<img src="{{ site.url }}/images/mohito.jpg"/>
+<caption>名物のモヒートコーヒー</caption>
+</figure>
 
 サンフランシスコ発祥のコーヒーチェーン、「Philz Coffee」が気になっています。
 
@@ -13,32 +16,35 @@ categories: blog
 
 ## 湯を注ぐ打点が高い！
 
-![mohito](/images/philz_high.png)
+<figure>
+<img src="{{ site.url }}/images/philz_high.png"/>
+<caption>湯を注ぐ打点が高い！</caption>
+</figure>
 
 抽出時の湯の注ぎ方がすごいです。打点高い系コーヒー。
 
 ## 抽出中に粉を混ぜる！
 
-![mohito](/images/philz_stair.png)
+<figure>
+<img src="{{ site.url }}/images/philz_stair.png"/>
+<caption>抽出中に粉を混ぜる！</caption>
+</figure>
 
 これも気が付くとなかなか衝撃です。結果的に抽出時間が短くなっているような気がします。
 フィルターはウェーブフィルターですね。
 
 ## 注文方法が独特
 
-[![mohito](/images/philz_order.png)](http://www.sbci.com/project-spotlight-shazam-and-philz-coffee/)
-
-右側が入り口なんですが、手前にあるレジに最初に行くと思いますよね？
+普通は手前にあるレジに最初に注文に行くと思いますよね？
 注文は一番奥のコーヒーを入れる人のカウンターに行くのが正解です。その後、レジに行って注文した内容を元に支払います。
 注文したコーヒーが出来上がったらまたカウンターに戻ります。味見して、好みに合っているか確認されたりします。
-
 
 
 豆をお店で購入してきたので、家でも打点高く抽出していこうと思います。
 
 [http://www.philzcoffee.com/](http://www.philzcoffee.com/)
 
-### 参考動画
+## 参考動画
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ci69JSfXGc" frameborder="0" allowfullscreen></iframe>
 

@@ -14,7 +14,10 @@ categories: blog
 そのソフトとはProject Mementoと呼ばれていたもので、Autodeskが以前から扱っていた123D Catchや
 Recapなどのキャプチャ製品をさらに発展させたソフトウェアのようです。
 
-![ito](/images/memento-01.png)
+<figure>
+<img src="{{ site.url }}/images/memento-01.png"/>
+<caption>memento</caption>
+</figure>
 
 - [Autodesk Memento](http://memento.autodesk.com/)
 
@@ -34,7 +37,10 @@ Mementoの特徴としては下記のような点が挙げられます。
 今回は123D Catch用にミラーレスで撮影した画像を再度処理してみました。
 処理時間は30分以上かかったとおもいますが、出来上がりのデータは驚異的な精度。
 
-![ito](/images/memento-02.png)
+<figure>
+<img src="{{ site.url }}/images/memento-02.png"/>
+<caption>memento</caption>
+</figure>
 
 顔はぶれてしまいましたが、道路や壁などについては強烈なリアリティです。
 不要な部分を削除してFBXにエクスポート、Mixiamoでリギングすると一発で成功！

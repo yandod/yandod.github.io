@@ -5,7 +5,10 @@ date:   2014-10-03 00:00:00 +9:00
 categories: event
 ---
 
-![ss](/images/joindin01.png)
+<figure>
+<img src="{{ site.url }}/images/joindin01.png"/>
+<caption>joind.in</caption>
+</figure>
 
 [Start - Joind.in](https://joind.in/)
 
@@ -20,19 +23,28 @@ joind.in にはイベントの主催者、講演者、参加者がイベント�
 
 # アカウントの登録
 
-![ss](/images/joindin02.png)
+<figure>
+<img src="{{ site.url }}/images/joindin02.png"/>
+<caption>joind.in</caption>
+</figure>
 
 アカウントの登録はTwitterかFacebookのアカウント経由の登録だとパスワードを決める必要も無く簡単です。
 連携の確認画面も出てきますので通常どおり承認してください。
 
-![ss](/images/joindin03.png)
+<figure>
+<img src="{{ site.url }}/images/joindin03.png"/>
+<caption>joind.in</caption>
+</figure>
 
 登録後はアカウントの管理画面になります。
 メールアドレスやパスワードを登録しておくと、SNSのアカウントに問題が起きてもログインができるようになります。
 
 # 講演者による情報編集申請
 
-![ss](/images/joindin04.png)
+<figure>
+<img src="{{ site.url }}/images/joindin04.png"/>
+<caption>joind.in</caption>
+</figure>
 
 講演者は自分自身のセッションをアカウントに紐づけて編集を申請できます。
 「Claim Talk」のボタンをクリックするとイベントの管理者に申請が送信され、承認されると編集が可能になります。
@@ -43,7 +55,10 @@ joind.in にはイベントの主催者、講演者、参加者がイベント�
 
 # 参加した講演へのフィードバック
 
-![ss](/images/joindin05.png)
+<figure>
+<img src="{{ site.url }}/images/joindin05.png"/>
+<caption>joind.in</caption>
+</figure>
 
 joind.inの最大の機能が講演へのコメント、レビュー機能です。
 ツイッターなどでつぶやくよりもダイレクトに講演にコメントでき、講演をする人にとってもとても有意義です。

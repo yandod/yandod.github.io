@@ -15,14 +15,21 @@ categories: event
 
 # Christian氏の情熱
 
-![Christion](/images/phpnz01.jpg)
+<figure>
+<img src="{{ site.url }}/images/phpnz01.jpg"/>
+<caption>Christion</caption>
+</figure>
 
 今回のカンファレンスで最も記憶に残ったのは僕を招待してくれた本人でもあるChristian Mazur氏の情熱です。
 彼はアルゼンチンから家族でニュージーランドに引っ越してまもなく、PHPNZのMeetupの活動をスタートさせ、そこに地元の有力なWeb系企業であるSilverstripeなどからメンバーが加わる形で移住から一年を待たずして国際的なカンファレンスを開催し、成功させる立役者となりました。
 
 - [Home - SilverStripe - Creators of the Open Source CMS & Framework](http://www.silverstripe.com/)
 
-![Christion](/images/phpnz02.jpg)
+<figure>
+<img src="{{ site.url }}/images/phpnz02.jpg"/>
+<caption>Christion</caption>
+</figure>
+
 
 しかも今回のカンファレンスにはPHPの作者であるRasmus氏を始めとしてインターナショナルなスピーカーを招待し、開会の際にはウエリントンの市長からの挨拶、クリスチャンの娘さんが通う地元の学校の子ども達によるニュージーランドの伝統ダンスの披露など、これまで見たことのないような演目まで用意する徹底ぶりです。
 
@@ -36,7 +43,11 @@ categories: event
 
 # カンファレンスのコンテンツ化
 
-![joindin](/images/phpnz03.png)
+<figure>
+<img src="{{ site.url }}/images/phpnz03.png"/>
+<caption>Christion</caption>
+</figure>
+
 
 以前、PHPNWで講演した郡山さんも強調していましたが、インターナショナルのPHPコミュニティではカンファレンスのセッション情報をLanyrdとjoind.inに集約しており、スピーカーの実績の収集やまた参加者からのフィードバックを得る機会を増やすという仕組みが回っています。
 
@@ -48,7 +59,10 @@ categories: event
 
 # 育児が理由でコミュニティ活動を引退しない？
 
-![Yann](/images/phpnz04.jpg)
+<figure>
+<img src="{{ site.url }}/images/phpnz04.jpg"/>
+<caption>Yann</caption>
+</figure>
 
 カンファレンス初日の夜にはスピーカーディナーが開催され、スピーカーやオーガナイザーが参加し色々な話をしました。
 今回は近くのテーブルにConFooのYann Larrivéeが座っており、色々と話す機会がありました。

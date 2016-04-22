@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<time class="op-published" datetime="{{page.date | date_to_xmlschema}}"/>
+<!--<time class="op-modified" dateTime="{{site.time | date_to_xmlschema}}"/>-->
 <div class="post">
 
   <header class="post-header">
@@ -9,6 +11,10 @@ layout: default
   </header>
   <article class="post-content">
   {{ content }}
+
+  <figure class="op-ad">
+   <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=1597610936921588_1597617460254269&adtype=banner300x250"></iframe>
+  </figure>
   </article>
 
   <div class="social">
