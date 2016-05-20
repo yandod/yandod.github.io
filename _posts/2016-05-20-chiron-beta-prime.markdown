@@ -13,9 +13,10 @@ categories: blog
 <iframe width="420" height="315" src="https://www.youtube.com/embed/B3DyxaCYlfg" frameborder="0" allowfullscreen></iframe>
 
 今日も作業中に聞いていました。未来っぽいクリスマスソングというテーマで作られた曲です。
-Chiron Beta Primeは鉱山小惑星の名前という事のようです。
+Chiron Beta Primeは鉱山小惑星の名前という事のようです。陽気なクリスマスソングを偽装しつつ、なにやら恐ろしい事態を訴えています。
 
 元の歌詞は
+
 - [Chiron Beta Prime](http://www.jonathancoulton.com/wiki/Chiron_Beta_Prime/Lyrics)
 - [itunes](https://itunes.apple.com/jp/album/joco-looks-back/id320729997)
 
