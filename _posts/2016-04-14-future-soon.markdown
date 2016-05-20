@@ -19,7 +19,7 @@ categories: blog
 元の詩は[公式サイト](http://www.jonathancoulton.com/wiki/The_Future_Soon/Lyrics)
 楽曲は[iTunes](https://itunes.apple.com/jp/album/where-tradition-meets-tomorrow/id65076298)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169003327&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169003327&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Jonathan Coulton (通称 JoCo)といえばPoRTAL、Left 4 Deadへの楽曲提供が有名ですね。
 
