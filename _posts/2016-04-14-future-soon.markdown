@@ -35,18 +35,18 @@ It said I love you, signed, anonymous friend <br/>
 Turns out she's smarter than I thought she was <br/>
 She knows I wrote it, now the whole class does too <br/>
 </blockquote>
-<blockquote>
-And I'm all alone during couple skate <br/>
-When she skates by with some guy on her arm <br/>
-But I know that I'll forget the look of pity in her face <br/>
-When I'm living in my solar dome on a platform in space <br/>
-</blockquote>
 <p>
 先週、ローラの机にメモを置いた <br/>
 君が好きだと、名前を伏せたまま <br/>
 でも君はおもったよりも鋭くて <br/>
 僕が書いたとわかってた、クラスみんながわかってた <br/>
 </p>
+<blockquote>
+And I'm all alone during couple skate <br/>
+When she skates by with some guy on her arm <br/>
+But I know that I'll forget the look of pity in her face <br/>
+When I'm living in my solar dome on a platform in space <br/>
+</blockquote>
 <p>
 カップルスケートの日も僕はずっと独りぼっち <br/>
 君が誰かの腕に捕まって滑ってる間 <br/>
@@ -58,18 +58,18 @@ When I'm living in my solar dome on a platform in space <br/>
 And I won't always be this way <br/>
 When the things that make me weak and strange get engineered away <br/>
 </blockquote>
-<blockquote>
-It's gonna be the future soon <br/>
-I've never seen it quite so clear <br/>
-And when my heart is breaking I can close my eyes and it's already here
-</blockquote>
-<br/>
 (＊) <br/>
 <p>
 未来はすぐそこさ <br/>
 僕だって今のままじゃない <br/>
 弱くて、変で、全然科学的じゃない <br/>
 </p>
+<blockquote>
+It's gonna be the future soon <br/>
+I've never seen it quite so clear <br/>
+And when my heart is breaking I can close my eyes and it's already here
+</blockquote>
+<br/>
 <p>
 未来はすぐそこさ <br/>
 これまでにないくらいはっきりしてる <br/>
@@ -82,6 +82,12 @@ Building inventions in my space lab in space <br/>
 I'll end world hunger, I'll make dolphins speak <br/>
 Work through the daytime, spend my nights and weekends <br/>
 </blockquote>
+<p>
+僕はたぶんある種の科学者になる <br/>
+宇宙にあるラボで発明をするのさ <br/>
+食べ物を作って、イルカを喋れるようにして <br/>
+昼も夜も週末も大忙しさ <br/>
+</p>
 <blockquote>
 Perfecting my warrior robot race <br/>
 Building them one laser gun at a time <br/>
@@ -90,12 +96,6 @@ About life and what it's worth <br/>
 I just hope that I can keep them from destroying the Earth
 </blockquote>
 <br/>
-<p>
-僕はたぶんある種の科学者になる <br/>
-宇宙にあるラボで発明をするのさ <br/>
-食べ物を作って、イルカを喋れるようにして <br/>
-昼も夜も週末も大忙しさ <br/>
-</p>
 <p>
 ロボット戦士軍団を完成させて <br/>
 レーザー銃も持たせた <br/>
@@ -139,6 +139,12 @@ She lost the real ones in the robot wars <br/>
 I'll say I'm sorry, she'll say it's not your fault <br/>
 Or is it?
 </blockquote>
+<p>
+モノレールのそばで彼女にあうと <br/>
+彼女は変わってない　サイボーグアイ以外は <br/>
+本物の目はロボット戦争で無くしたらしい <br/>
+可哀想にというと、あなたのせいじゃない？と <br/>
+</p>
 <blockquote>
 She'll eye me suspiciously <br/>
 Hearing the whir of the servos inside <br/>
@@ -147,12 +153,6 @@ But there's nowhere she can hide <br/>
 When a crazy cyborg wants to make you his robot bride
 </blockquote>
 <br/>
-<p>
-モノレールのそばで彼女にあうと <br/>
-彼女は変わってない　サイボーグアイ以外は <br/>
-本物の目はロボット戦争で無くしたらしい <br/>
-可哀想にというと、あなたのせいじゃない？と <br/>
-</p>
 <p>
 彼女は僕を疑っている <br/>
 僕の中のサーボが音を立てる <br/>
