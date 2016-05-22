@@ -31,7 +31,7 @@ And we know it's almost Christmas by the marks we make on the wall.<br/>
 That's our favorite time of year.
 </blockquote>
 <p>
-今年はアンダーソン家にはちょっと大変でしたね。<br/>
+今年はアンダーソン家にはちょっと大変でした。<br/>
 去年、少し問題があったでしょ?<br/>
 ロボット議会は私達を小惑星に追放しましたけど、<br/>
 私達のお祝い気分には関係ないですね。<br/>
@@ -46,7 +46,7 @@ Merry Christmas from Chiron Beta Prime.
 </blockquote>
 <p>
 カイロンベータプライムからメリークリスマス<br/>
-私達は支配者ロボットの為に鉱山で働いている。<br/>
+私達が支配者ロボットの為に働いている鉱山。<br/>
 支配者じゃなくて、守護者ですね。<br/>
 カイロンベータプライムからメリークリスマス
 </p>
@@ -59,7 +59,7 @@ And the rocks outside the airlock exude ammonia-scented snow.<br/>
 It's like a Winter Wonderland.
 </blockquote>
 <p>
-至るところに巨大な金属のサンタが私達を赤く光る目で見ています。<br/>
+至るところで巨大な金属のサンタが私達を赤く光る目で見ています。<br/>
 サンタは武装していて、あなたが悪人か善人かを判断しています。<br/>
 全員が善人じゃないけど、みんな努力しています。<br/>
 エアロックの外の岩にはアンモニア臭のする雪が滲みでていますね。<br/>
@@ -74,7 +74,7 @@ Merry Christmas from Chiron Beta Prime.
 </blockquote>
 <p>
 カイロンベータプライムからメリークリスマス<br/>
-私達は支配者ロボットの為に鉱山で働いてます。<br/>
+私達が支配者ロボットの為に働いている鉱山。<br/>
 支配者じゃなくて、守護者ですね。<br/>
 カイロンベータプライムからメリークリスマス
 </p>
@@ -104,7 +104,7 @@ Merry Christmas from Chiron Beta Prime.
 </blockquote>
 <p>
 カイロンベータプライムからメリークリスマス<br/>
-私達は支配者ロボットの為に鉱山で働いてます。<br/>
+私達が支配者ロボットの為に働いている鉱山。<br/>
 支配者じゃなくて、守護者ですね。<br/>
 カイロンベータプライムからメリークリスマス
 </p>
