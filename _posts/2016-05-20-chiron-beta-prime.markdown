@@ -2,7 +2,8 @@
 layout: post
 title:  "ギーク系ソング Chiron Beta Prime"
 date:   2016-05-20 00:00:00 +9:00
-categories: blog
+categories:
+  - blog
 ---
 
 <figure>

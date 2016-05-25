@@ -2,7 +2,8 @@
 layout: post
 title:  "ギーク系ソング The Future Soon の歌詞の和訳"
 date:   2016-04-15 00:00:00 +9:00
-categories: blog
+categories:
+  - blog
 ---
 
 <figure>
