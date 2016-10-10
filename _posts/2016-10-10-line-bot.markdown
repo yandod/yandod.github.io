@@ -18,10 +18,6 @@ categories:
 - [osscafe-bot](https://github.com/yandod/osscafe-bot)
 - [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
 
-一応動くようになった。
-
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yandod/osscafe-bot/)
-
 # 下準備
 
 - LINE beaconの入手
@@ -50,3 +46,8 @@ z_project_devさんのQiitaの記事内のサンプルを手始めに動作確�
 
 複雑な認証処理もないのでCURLでも十分に実装可能である。
 一方で複雑な処理をすることを考えると心許ない気もする。結果的に公式のSDKには必要な処理が揃っていて使いやすい事に気がつく。(PHP5.6以上が必要)
+
+さらにいうとSlimを使った豪華なサンプルが同梱されているので、これを改変すれば全ての機能をすぐに試すことが出来る。
+LINE Botを実装する事が主目的ならこれを使えば良さそう。一方で複数のメッセージングサービスをインテグレーションする場合は対応策を考える必要がある。
+
+- [KitchenSink](https://github.com/line/line-bot-sdk-php/tree/master/examples/KitchenSink)
