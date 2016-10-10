@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "LINEボットをPHPで作ってみた"
+date:   2016-10-10 00:00:00 +9:00
+categories:
+  - blog
+---
+
+# TL;DR
+
+<figure>
+<img src="{{ site.url }}/images/line-bot.png"/>
+<caption>ビーコンをつかむと返信して、DBに記録する</caption>
+</figure>
+
+公式のSDKを使うと楽。
+
+- [osscafe-bot](https://github.com/yandod/osscafe-bot)
+- [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
+
+一応動くようになった。
+
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yandod/osscafe-bot/)
+
+# 下準備
+
+- LINE beaconの入手
+- LINE@ のアカウント作成
+- Messaging APIのアカウント作成
+
+基本的にはドキュメントの中身に沿って進めれば良い。LINE@を使った事が無かったのでLINE@とMessaging APIが独立したアカウントになっており、2つを結びつけるイメージだった事がポイントのようである。
+
+# APIの概要等
+
+APIはシンプルなのでドキュメントを読めば理解可能。
+特にビーコンについては下記のページを見るとよくわかる。基本的にビーコンに接触したユーザーのIDと返信用のトークンがコールバックされてくる形。
+個人的には電池の残量がわからないので電池の残量を返してきてほしかった。
+
+- [Beacon Event](https://devdocs.line.me/ja/#webhook-event-object)
+
+ビーコンのイベントには最小限のデータしか無いので、ユーザーのアイコンや名前などはプロフィールの取得を行う。具体的にはIDさえわかっていれば取得可能。
+
+- [Get Profile](https://devdocs.line.me/ja/#bot-api-get-profile)
+
+# 実装
+
+z_project_devさんのQiitaの記事内のサンプルを手始めに動作確認。
+
+- [LINE Beaconを試してみた](http://qiita.com/z_project_dev/items/fb7e08cd8feefc6b67c0)
+
+複雑な認証処理もないのでCURLでも十分に実装可能である。
+一方で複雑な処理をすることを考えると心許ない気もする。結果的に公式のSDKには必要な処理が揃っていて使いやすい事に気がつく。(PHP5.6以上が必要)
