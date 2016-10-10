@@ -9,9 +9,10 @@ categories:
 # TL;DR
 
 <figure>
-<img src="{{ site.url }}/images/line-bot.png"/>
+<img src="{{ site.url }}/images/line-bot.png" style="width:30%"/>
 <caption>ビーコンをつかむと返信して、DBに記録する</caption>
 </figure>
+
 
 公式のSDKを使うと楽。
 
