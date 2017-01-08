@@ -44,7 +44,7 @@ CoderDojoの基本理念とも通じますが、カリキュラムは特にあ�
 あとは場所柄なのか外国人のお子さんの参加なども珍しくはありません。運営としては英語で対応する事は保証していないので、基本的に日本語での進行になりますが、ケースバイケースです。
 
 多くの子供向けプログラミングイベントではいわゆるセッション形式で講師役が内容を説明し、一斉に進めるというスタイルを取っているかと思います。下北沢でも当初はそのような形式をとっていましたが、準備の負担が大きかったので徐々に寺子屋方式に移行しました。
-運営側としては会の始めに進行方向の説明をし、最後に参加者各自が取り組んだ内容を全員に発表して解散という流れのモデレーターをしています。
+運営側としては会の始めに進行方法の説明をし、最後に参加者各自が取り組んだ内容を全員に発表して解散という流れのモデレーターをしています。
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoderdojo.tokyo%2Fvideos%2F1215568321827529%2F&show_text=1&width=560" width="560" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
