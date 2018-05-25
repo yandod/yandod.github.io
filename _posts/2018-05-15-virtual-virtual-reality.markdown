@@ -31,13 +31,13 @@ AIが完全に社会を変革し、人間がAIの顧客の為に使役される�
 
 その他の評判についてはツイートが多数あるのでそれを見てみるといいかもしれません。
 
-https://togetter.com/li/1229773
+[Virtual Virtual Realityをプレイして驚愕した人々](https://togetter.com/li/1229773)
 
 # 攻略情報
 
 公式サイト内に英語のウォークスルーが存在しておりこれを見ればどのステージも突破できます。
 
-http://vvr.tenderclaws.com/SuperSecretWalkthrough/
+[http://vvr.tenderclaws.com/SuperSecretWalkthrough/](http://vvr.tenderclaws.com/SuperSecretWalkthrough/)
 
 この先にネタバレがあります。
 <br/>
@@ -100,7 +100,9 @@ http://vvr.tenderclaws.com/SuperSecretWalkthrough/
 
 落下したチャズの外装を吸引するとコアの部分が現れます。コアには多数のバックアップがありますがこれを引き抜いて捨てると敵対行為とみなしてチャズが反撃してきます。
 この反撃がえげつない即死攻撃となっており、食らった場合はダークな「マージ」エンドになります。
-壁のチャートからHR2をロードしてやり直しましょう。
+ヘッドセットをした状態で脳から記憶がアップロードされるシーンを見るのはゲームとはいえかなり「来ます」ね。
+
+オチを見終わったら壁のチャートからHR2をロードしてやり直しましょう。
 
 # [ネタバレ]リセット
 
