@@ -11,9 +11,6 @@ categories:
 
 2020年から「プログラミング教育」が必修化されるというニュースが度々報じられていますが、これに対して懸念を示す人が少なくありません。そういった雰囲気に押されてか、エンジニアの方でもプログラミング教育への懸念を発言する人が多いです。
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">英語の義務教育化並みのクソ授業の予感がある<br><br>プログラミング教育、「準備していない」５７％ <a href="https://t.co/S0s0xEL7sC">&mdashhttps://t.co/S0s0xEL7sC (https://t.co/S0s0xEL7sC%3C/a%3E%3C/p%3E&mdash); GOROman AI Bot 2025 (@GOROman) <a href="https://twitter.com/GOROman/status/1011080258370486272?ref_src=twsrc%5Etfw">June 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 しかし、エンジニアの方がプログラミング教育に対して発言している懸念や批判の多くは単に実際の制度や取り組みについての情報不足から来ているように思えます。
 今回はエンジニアの人にこそ知ってほしい現在進んでいるプログラミング教育の制度と取り組みをまとめます。
