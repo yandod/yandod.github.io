@@ -84,10 +84,8 @@ JSONやmarkdownを扱うライブラリを想像してみてください。ど�
 中学校、技術家庭に定められているプログラムによる計測・制御はセンサーやアクチュエーターをプログラムで制御する事を想定しており、フローチャートを書くものやVisual Basicを使った実践例などがあるようです。ちなみに「プログラムによる計測・制御」が単元名になっており検索するとさまざまな事例が出てきて感動します。
 
 
-* キューブカート２とWiiリモコンを使った計測・制御
-    * http://www1.iwate-ed.jp/tantou/joho/material/wii_remote/index.html
-* 中学校技術におけるスモウルビーを活用した授業実践
-    * http://www.jaet.jp/repository/ronbun/JAET2016_A-2-5.pdf
+* [キューブカート２とWiiリモコンを使った計測・制御](http://www1.iwate-ed.jp/tantou/joho/material/wii_remote/index.html)
+* [中学校技術におけるスモウルビーを活用した授業実践](http://www.jaet.jp/repository/ronbun/JAET2016_A-2-5.pdf)
 
 高等学校の内容はさらに高度です。[学習指導要領](http://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2012/01/26/1282000_11.pdf)を見てみましょう。
 
