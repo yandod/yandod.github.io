@@ -2,6 +2,7 @@
 layout: post
 title:  "中学校で使われているプログラミングの教科書を全部購入して比較"
 date:   2018-07-17 9:00:00 +9:00
+image: https://pbs.twimg.com/media/DiCUvyFU0AIHmLL.jpg:large
 categories:
   - blog
 ---
