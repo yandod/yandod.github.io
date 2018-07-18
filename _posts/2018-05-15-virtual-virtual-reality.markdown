@@ -2,6 +2,7 @@
 layout: post
 title:  "[ネタバレ有り] Oculus Go用ゲーム Virtual Virtual Realityが面白い"
 date:   2018-05-15 12:00:00 +9:00
+image: /images/V-VR.jpg
 categories:
   - blog
 ---
