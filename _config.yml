@@ -3,10 +3,14 @@ title: Yusuke Ando a.k.a yando
 email: yandod@gmail.com
 description: "This is my personal profile website."
 baseurl: ""
-url: "https://yandod.github.io"
+url : "https://yandod.github.io"
+#url: "http://127.0.0.1:4000"
 username: yandod
 domain: "yandod.github.io"
 
 # Build settings
 markdown: redcarpet
 permalink: pretty
+
+gems:
+  - jekyll-seo-tag
