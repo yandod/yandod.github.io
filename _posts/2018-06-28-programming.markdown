@@ -139,3 +139,7 @@ JSONやmarkdownを扱うライブラリを想像してみてください。ど�
 ### その他参考資料
 * [文部科学省 教育の情報化の推進](http://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1375607.htm)
 
+### 関連記事
+- [ディスる前に知っておくべき「プログラミング教育」のこと](https://yandod.github.io/blog/2018/06/28/programming/)
+- [中学校で使われているプログラミングの教科書を全部購入して比較](https://yandod.github.io/blog/2018/07/17/programming-textbook/)
+- [日本のプログラミング教育は諸外国より遅れているのか？](https://yandod.github.io/blog/2018/07/22/ict-education-in-the-world/)
