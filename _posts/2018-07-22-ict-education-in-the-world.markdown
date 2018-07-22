@@ -81,7 +81,7 @@ categories:
 どうやらヨーロッパの代表的な国々ではプログラミング教育は職業訓練的な意味合いが強く、学校の制度も細分化しているので必要な生徒だけが実務的なことを学ぶというような教育のようです。
 報告書を見るとより若年層からのプログラミング教育の議論も起こってはいいるようですが、進行中ということのようです。
 
-# アジア諸国は主に高等教育での実施
+# アジア諸国は主に高校段階での実施
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">上海、香港、台湾はICTリテラシーの教育は早期から行っているがプログラミング教育は上海、台湾では高校か香港では中学からの実施となっている。 <a href="https://t.co/x9sde13ZPG">pic.twitter.com/x9sde13ZPG</a></p>&mdash; Yusuke Ando@プログラミング教育に詳しい (@yando) <a href="https://twitter.com/yando/status/1020701561016610816?ref_src=twsrc%5Etfw">2018年7月21日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -113,3 +113,8 @@ categories:
 そういった意味ではこれからプログラミング教育を早期に行おうとしている様々な国々の教材や制度は同じような現状から議論されているのでかえって参考になるかもしれません。
 
 今回の記事は私の独断も多くありますので、興味をもった方はぜひ原典をお読みになってください。
+
+日本のプログラミング教育の制度や実際の教育内容は以前書いた記事を御覧ください。
+
+- [ディスる前に知っておくべき「プログラミング教育」のこと](https://yandod.github.io/blog/2018/06/28/programming/)
+- [中学校で使われているプログラミングの教科書を全部購入して比較](https://yandod.github.io/blog/2018/07/17/programming-textbook/)
