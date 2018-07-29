@@ -10,6 +10,8 @@ domain: "yandod.github.io"
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]
 permalink: pretty
 
 gems:
