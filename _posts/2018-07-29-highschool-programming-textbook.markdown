@@ -28,6 +28,7 @@ categories:
 - [第一学習社 - 高等学校 情報の科学 [情科311]](第一学習社---高等学校-情報の科学-[情科311])
 
 - [記事の執筆に使った簡易的な一覧表](https://docs.google.com/spreadsheets/d/1pOcR8RtOKSYo-3CqCzFmY_TWoJoaywzrTk4RVr7ePCk/edit?usp=sharing)
+
 また今回の記事は教育に携わっていない方向けに紹介しますのでは高等学校を高校など一般的な用語で表します。
 
 ## 「情報の科学」とはどんな位置づけなのか
