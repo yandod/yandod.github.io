@@ -250,3 +250,17 @@ Unicodeが4バイトになるケースを想定した記述もありました。
   - [ディスる前に知っておくべき「プログラミング教育」のこと](https://yandod.github.io/blog/2018/06/28/programming/)
   - [中学校で使われているプログラミングの教科書を全部購入して比較](https://yandod.github.io/blog/2018/07/17/programming-textbook/)
   - [日本のプログラミング教育は諸外国より遅れているのか？](https://yandod.github.io/blog/2018/07/22/ict-education-in-the-world/)
+
+## 追記 東京都教育委員会による教科書の研究結果
+
+各地域の教育委員会が教科書採択の助けになるような調査や学校への推奨をする場合があるようです。
+東京都教育委員会の場合は結果がウェブサイトにて講評されていました。
+事前に見ていたらバイアスがかかりそうなくらいよくまとまっています。私の書いた上記の評価は個人の観点ですので教育委員会による評価と合わせて見ることで教科書の特徴がさらによくわかるかと思います。
+
+- [平成29年度使用　高等学校用教科書調査研究資料（共通教科）](http://www.kyoiku.metro.tokyo.jp/school/textbook/high_school/research_common_2017.html)
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">高校の情報の科学の教科書について東京都教育委員会が研究した内容が公表されていました。みなさんが感じた印象と教育委員会の評価は一致しますか？　発展的な内容と構成上の工夫については下記のような講評です。<a href="https://t.co/IEGTKB2ivx">https://t.co/IEGTKB2ivx</a> <a href="https://t.co/TenN9htTY2">pic.twitter.com/TenN9htTY2</a></p>&mdash; Yusuke Ando@プログラミング教育に詳しい (@yando) <a href="https://twitter.com/yando/status/1023900739196747777?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">各教科書の実習内容がひと目でわかりますね。 <a href="https://t.co/GpqRryeMvV">pic.twitter.com/GpqRryeMvV</a></p>&mdash; Yusuke Ando@プログラミング教育に詳しい (@yando) <a href="https://twitter.com/yando/status/1023902073551708161?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
