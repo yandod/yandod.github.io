@@ -20,12 +20,12 @@ categories:
 今回はその中でも平成28年に検定を受け、現在使用されている下記の6つの教科書を紹介します。
 前置きが長くなりそうなので、各教科書について見たい方はジャンプしてください。
 
-- [東京書籍 - 情報の科学 [情科306]](#東京書籍---情報の科学-[情科306])
-- [実教出版 - 最新 情報の科学 新訂版 [情科307]](#実教出版---最新-情報の科学-新訂版-[情科307])
-- [実教出版 - 情報の科学 新訂版 [情科308]](実教出版---情報の科学-新訂版-[情科308])
-- [数研出版 - 改訂版 高等学校 情報の科学 [情科309]](数研出版---改訂版-高等学校-情報の科学-[情科309])
-- [日本文教出版 - 新・情報の科学 [情科310]](日本文教出版---新・情報の科学-[情科310])
-- [第一学習社 - 高等学校 情報の科学 [情科311]](第一学習社---高等学校-情報の科学-[情科311])
+- [東京書籍 - 情報の科学 [情科306]](#東京書籍---情報の科学-情科306)
+- [実教出版 - 最新 情報の科学 新訂版 [情科307]](#実教出版---最新-情報の科学-新訂版-情科307)
+- [実教出版 - 情報の科学 新訂版 [情科308]](#実教出版---情報の科学-新訂版-情科308)
+- [数研出版 - 改訂版 高等学校 情報の科学 [情科309]](#数研出版---改訂版-高等学校-情報の科学-情科309)
+- [日本文教出版 - 新・情報の科学 [情科310]](#日本文教出版---新・情報の科学-情科310)
+- [第一学習社 - 高等学校 情報の科学 [情科311]](#第一学習社---高等学校-情報の科学-情科311)
 
 - [記事の執筆に使った簡易的な一覧表](https://docs.google.com/spreadsheets/d/1pOcR8RtOKSYo-3CqCzFmY_TWoJoaywzrTk4RVr7ePCk/edit?usp=sharing)
 
@@ -263,4 +263,7 @@ Unicodeが4バイトになるケースを想定した記述もありました。
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">各教科書の実習内容がひと目でわかりますね。 <a href="https://t.co/GpqRryeMvV">pic.twitter.com/GpqRryeMvV</a></p>&mdash; Yusuke Ando@プログラミング教育に詳しい (@yando) <a href="https://twitter.com/yando/status/1023902073551708161?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">東京都の「情報の科学」の教科書の採択状況。バラけていますね。エンジニアの人に人気のある？日本文教出版の教科書も25%なのでかなり使われていますね。<br>実教出版 45.8%<br>日本文教出版 25.2%<br>東京書籍 15.9%<br>数研出版 7.5%<br>第一学習社 5.6%<a href="https://t.co/Oqq7BOgzCb">https://t.co/Oqq7BOgzCb</a> <a href="https://t.co/Nmp4NuEZy9">pic.twitter.com/Nmp4NuEZy9</a></p>&mdash; Yusuke Ando@プログラミング教育に詳しい (@yando) <a href="https://twitter.com/yando/status/1023953150133194752?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
