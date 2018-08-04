@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020年の高校のプログラミング教育はどんな内容になるのか？(情報Ⅰ & 情報Ⅱ)"
+title:  "2022年の高校のプログラミング教育はどんな内容になるのか？(情報Ⅰ & 情報Ⅱ)"
 date:   2018-08-04 9:00:00 +9:00
 image: /images/new-highschool-curriculum.jpg
 description:
