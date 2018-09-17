@@ -2,7 +2,7 @@
 layout: post
 title:  "プログラミングと女性の歴史"
 date:   2018-09-17 9:00:00 +9:00
-image: /images/new-highschool-curriculum.jpg
+image: /images/Ada_Lovelace_1838.jpg
 description:
 categories:
   - blog
