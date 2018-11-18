@@ -3,7 +3,7 @@ layout: post
 title:  "高校で使われているIT教育の教科書を全部購入して比較 (社会と情報)"
 date:   2018-11-18 9:00:00 +9:00
 image: /images/highschool-ict-text.jpg
-description:
+description: 少し間が空きましたが現行の教科書についての3つ目の記事です。今回は高等学校の「社会と情報」の教科書を手に入る範囲ですべて通読した上で気になった点を紹介します。
 categories:
   - blog
 ---
