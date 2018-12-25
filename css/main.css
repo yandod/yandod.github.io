@@ -162,6 +162,11 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+.posts .post-social {
+  display: block;
+}
+
+
 
 /* Post styles */
 /* ----------------------------------------------------------*/
