@@ -25,15 +25,14 @@ categories:
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/11/18/ict-textbook/">高校で使われているIT教育の教科書を全部購入して比較 (社会と情報)</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="https://yandod.github.io/blog/2018/11/18/ict-textbook/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/11/18/ict-textbook/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/">プログラミングと女性の歴史</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-        <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+        <a href="https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>        <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
