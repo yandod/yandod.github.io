@@ -25,55 +25,56 @@ categories:
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/11/18/ict-textbook/">高校で使われているIT教育の教科書を全部購入して比較 (社会と情報)</a>
         <span class="post-social">
-        <a href="https://yandod.github.io/blog/2018/11/18/ict-textbook/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/11/18/ict-textbook/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/11/18/ict-textbook/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/">プログラミングと女性の歴史</a>
         <span class="post-social">
-        <a href="https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>        <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/09/17/history-of-women-in-programming/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/09/17/history-of-women-in-programming/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/08/04/new-highschool-curriculum/">2022年の高校のプログラミング教育はどんな内容になるのか？(情報Ⅰ &amp; 情報Ⅱ)</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/08/04/new-highschool-curriculum/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/08/04/new-highschool-curriculum/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
     <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/07/29/highschool-programming-textbook/">高校で使われているプログラミングの教科書を全部購入して比較 (情報の科学)</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/07/29/highschool-programming-textbook/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/07/29/highschool-programming-textbook/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/07/22/ict-education-in-the-world/">日本のプログラミング教育は諸外国より遅れているのか？</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/07/22/ict-education-in-the-world/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/07/22/ict-education-in-the-world/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/07/17/programming-textbook/">中学校で使われているプログラミングの教科書を全部購入して比較</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/07/17/programming-textbook/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/07/17/programming-textbook/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/06/28/programming/">ディスる前に知っておくべき「プログラミング教育」のこと</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/06/28/programming/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io/blog/2018/06/28/programming/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
       <li>
         <a class="post-link" href="https://yandod.github.io/blog/2018/05/15/virtual-virtual-reality/">[ネタバレ有り] Oculus Go用ゲーム Virtual Virtual Realityが面白い</a>
         <span class="post-social">
-        <iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" frameborder="0" scrolling="no" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px;"></iframe><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+        <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io/blog/2018/05/15/virtual-virtual-reality/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
         <iframe src="//www.facebook.com/plugins/like.php?href=http://yandod.github.io/blog/2018/05/15/virtual-virtual-reality/&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
         </span>
       </li>
