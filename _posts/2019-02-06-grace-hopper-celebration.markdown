@@ -16,13 +16,15 @@ categories:
 
 昨年の参加者はなんと2万人とのこと。
 
-- https://ghc.anitab.org/news/announcements/ghc-18-impact-report/
+- [Breaking Records and Inspiring Thousands at GHC 18](https://ghc.anitab.org/news/announcements/ghc-18-impact-report/)
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">COBOLを知っている人はその作者であるグレース・ホッパーを知ってほしい。コンピューター技術者の先駆けの女性であり、コンピューターに虫が挟まったことによる不具合を「バグ」と表現する言い方を広めた人。<br>ある教科書にはコンピューターに関する偉人として彼女が紹介されていた。 <a href="https://t.co/HeAzdYTSSd">pic.twitter.com/HeAzdYTSSd</a></p>&mdash; Yusuke Ando (@yando) <a href="https://twitter.com/yando/status/1019627195000504320?ref_src=twsrc%5Etfw">2018年7月18日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-このGHC、なんと学生の参加費用、渡航費、滞在費を支給するスカラシッププログラムがあり条件を満たしている学生であれば金銭的な負担なく参加するチャンスがあるようです。
+このGHC、なんと[学生の参加費用、渡航費、滞在費を支給するスカラシッププログラム](https://ghc.anitab.org/2019-student-academic/scholarships/)があり条件を満たしている学生であれば金銭的な負担なく参加するチャンスがあるようです。
 海外のプログラムですので応募に労力はかかりますが、リターンの大きい貴重なチャンスかと思います。当てはまる方で興味がある方はぜひぜひ参加してみて、その経験を日本に持ち帰ってくれたらいいなと願いを込めて紹介します。
+
+- [GHC 19 Scholarships](https://ghc.anitab.org/2019-student-academic/scholarships/)
 
 以前、グレース・ホッパーなど女性の技術者の功績を紹介する記事を書きましたが、プログラミングなどの分野で活躍した女性は多岐に渡っています。
 女性がIT業界で少数派として不利益を被るのではなく、むしろ業界をより強くする為の重要なエネルギーである事を感じられるきっかけになるのではないでしょうか。
