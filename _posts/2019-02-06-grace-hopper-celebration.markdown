@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "世界最大の女性技術者イベント グレース・ホッパー"
+title:  "世界最大の女性技術者イベント グレース・ホッパー祭典"
 date:   2019-02-06 00:00:00 +9:00
 categories:
   - blog
@@ -13,6 +13,7 @@ categories:
 
 このイベントはコンピューター技術者の先駆けの女性、グレース・ホッパーを記念して開催されるGrace Hopper Celebration (GHC)というイベントです。
 会場には全世界から女性技術者や学生が集まりさまざまな課題について議論したり交流を深めるというものです。
+
 昨年の参加者はなんと2万人とのこと。
 
 - https://ghc.anitab.org/news/announcements/ghc-18-impact-report/
