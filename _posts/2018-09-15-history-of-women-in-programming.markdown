@@ -117,7 +117,8 @@ Smalltalkの開発はアラン・ケイやダン・インガルスも参加し�
 裾野を広げるだけでなく、トップレベルで活躍するソフトウェアエンジニアにおける女性の割合を増やすには計算機科学に代表される専門教育を受ける若者を増やすことや、実際にキャリアを積み始めた女性が正しく評価され、キャリアを発展させていくことができるような環境作りが必要になるでしょう。
 
 <figure>
-<img src="{{ site.url }}/images/rikei-female.png" style="width:100%"/>
+<a href="http://eic.obunsha.co.jp/pdf/educational_info/2016/1221_1.pdf"><img src="{{ site.url }}/images/rikei-female.png" style="width:100%"/></a>
+<caption>理系女子 - 旺文社 教育情報センター</caption>
 </figure>
 
 計算機科学を学ぶ学生における女性の割合はアメリカでも20％以下と非常に少なく、日本においても「工学部」全体で見ても20%以下となっています。
