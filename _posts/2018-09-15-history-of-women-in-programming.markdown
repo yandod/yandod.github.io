@@ -118,7 +118,7 @@ Smalltalkの開発はアラン・ケイやダン・インガルスも参加し�
 
 <figure>
 <a href="http://eic.obunsha.co.jp/pdf/educational_info/2016/1221_1.pdf"><img src="{{ site.url }}/images/rikei-female.png" style="width:100%"/></a>
-<caption>理系女子 - 旺文社 教育情報センター</caption>
+<caption>出典:理系女子 - 旺文社 教育情報センター</caption>
 </figure>
 
 計算機科学を学ぶ学生における女性の割合はアメリカでも20％以下と非常に少なく、日本においても「工学部」全体で見ても20%以下となっています。
