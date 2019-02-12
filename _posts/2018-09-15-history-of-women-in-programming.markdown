@@ -45,6 +45,14 @@ categories:
 
 - [“バグ”と戦った歴史的プログラマー](https://natgeo.nikkeibp.co.jp/nng/article/news/14/8624/)
 
+## 追記 グレース・ホッパーの名を関したセレモニーが毎年開催されています。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">For those of you who couldn&#39;t be at <a href="https://twitter.com/ghc?ref_src=twsrc%5Etfw">@ghc</a> to feel the energy in this room, it’s important to remember that over the last three days more women technologists gathered together in one place than ever before. We enter the last day of <a href="https://twitter.com/hashtag/GHC18?src=hash&amp;ref_src=twsrc%5Etfw">#GHC18</a> feeling inspired, empowered, and motivated. <a href="https://t.co/ds0MVtB06D">pic.twitter.com/ds0MVtB06D</a></p>&mdash; Google Students (@googlestudents) <a href="https://twitter.com/googlestudents/status/1045711809746006016?ref_src=twsrc%5Etfw">2018年9月28日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+- [世界最大の女性技術者イベント グレース・ホッパー祭典](https://yandod.github.io/blog/2019/02/05/grace-hopper-celebration/)
+
 # 計算機分野における女性の衰退
 
 <figure>
@@ -132,3 +140,4 @@ Percentage of Bachelor’s degrees conferred to women, by major (1970-2012)](htt
 - [A Brief History of Women in Computing
 ](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306)
 - [“理系女子”は本当に増えたのか？](http://eic.obunsha.co.jp/pdf/educational_info/2016/1221_1.pdf)
+
