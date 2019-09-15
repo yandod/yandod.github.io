@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "世界最大の女性技術者イベント グレース・ホッパー祭典"
-date:   2019-02-06 00:00:00 +9:00
+title:  "テック業界でのダイバーシティを考える題材になる書籍、10選"
+date:   2019-09-15 00:00:00 +9:00
 categories:
   - blog
 ---
 
 昨年のイベントで撮影されたこの写真をご覧ください。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTU4MjA3OF19
+eyJoaXN0b3J5IjpbLTg2MjkyNTA1M119
 -->
