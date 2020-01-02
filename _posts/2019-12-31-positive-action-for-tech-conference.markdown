@@ -21,7 +21,7 @@ published: true
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">形式的平等と実質的平等。これは「平等」と「公平」、EqualityとEquityの話にもつながる。日本はEquality の概念が強いという話だと理解した。 <a href="https://twitter.com/hashtag/DevFestWomen?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestWomen</a> <a href="https://t.co/YBbkCBOAmE">pic.twitter.com/YBbkCBOAmE</a></p>&mdash; Yusuke Ando (@yando) <a href="https://twitter.com/yando/status/1183577920008179712?ref_src=twsrc%5Etfw">October 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-女性はCFPを出す前の時点で男性よりも努力が必要です。例えば日本では家事や育児の多くは女性が負担していますし、独身であっても女性には男性にはないさまざまなコスト・労力を求められます。
+女性はCFPを出す前の時点で男性よりも努力が必要です。例えば日本では家事や育児の多くは女性が負担していますし、独身であっても女性には男性にはない[さまざまなコスト](https://fpcafe.jp/mocha/1234)・労力を求められます。
 男性と同じだけの時間と労力をCFPにはかけられません。
 
 応募条件や選考プロセスが性別不問になっているだけでは、元々存在している格差を是正することは出来ません。
