@@ -38,7 +38,7 @@ published: true
   - 最後に、これらのすべての要素が交わり、反映された結果として、女性に苦しみや葛藤を齎す状況を、Tug of War（綱引き）と言います。
 
 上記はLEAN IN Tokyoの記事から引用。
-[https://leanintokyo.org/what-works-for-women-at-work%e3%80%80%e3%80%8c%e5%83%8d%e3%81%8f%e5%a5%b3%e6%80%a7%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%8c%e6%9c%89%e5%8a%b9%e3%81%8b%e3%80%8d/](What Works For Women At Work　「働く女性にとって何が有効か」)
+- [What Works For Women At Work　「働く女性にとって何が有効か」](https://leanintokyo.org/what-works-for-women-at-work%e3%80%80%e3%80%8c%e5%83%8d%e3%81%8f%e5%a5%b3%e6%80%a7%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e4%bd%95%e3%81%8c%e6%9c%89%e5%8a%b9%e3%81%8b%e3%80%8d/)
 
 上記の手法の元になった書籍はまだ和訳はないようです。
 
