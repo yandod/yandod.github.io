@@ -19,7 +19,7 @@ categories: blog
 # 13歳未満でも利用可能
 
 - Code.org
-  - [Terms of Service | Code.org](http://code.org/tos)
+  - [Terms of Service  Code.org](http://code.org/tos)
   - 13歳以下の場合は保護者の同意を得ることを奨励
 
 - Scratch
@@ -27,7 +27,7 @@ categories: blog
   - すべての年齢の大人と子どもの利用を明言
 
 - Twitter
-  - [Privacy Policy | Twitter](https://twitter.com/privacy?lang=ja)
+  - [Privacy Policy  Twitter](https://twitter.com/privacy?lang=ja)
   - 13歳未満の情報が意図せず公開されている場合は申し立てにより削除される場合がある
   - 表示される広告の制御のために誕生日を確認される場合があるが、保存はされない。
 
@@ -40,7 +40,7 @@ categories: blog
   - コンテンツの購入とアップロードは18歳から、13歳から17歳までは保護者の同意が必要。
 
 - Unreal Engine
-  - [Terms of Service | Epic Games](http://epicgames.com/tos)
+  - [Terms of Service  Epic Games](http://epicgames.com/tos)
   - 年齢についての言及なし
 
 - itch.io
@@ -52,7 +52,7 @@ categories: blog
   - [GitHub Terms of Service - User Documentation](https://help.github.com/articles/github-terms-of-service/#a-account-terms)
 
 - Facebook
-  - [How do I report a child under the age of 13? | Facebook Help Center](https://www.facebook.com/help/157793540954833)
+  - [How do I report a child under the age of 13?  Facebook Help Center](https://www.facebook.com/help/157793540954833)
 
 - Google
   - [Google アカウントの年齢要件 - Google アカウント ヘルプ](https://support.google.com/accounts/answer/1350409?hl=ja)
@@ -61,4 +61,4 @@ categories: blog
   - [Tumblr](https://www.tumblr.com/policy/en/terms-of-service)
 
 - Heroku
-  - [Heroku | Tos](https://www.heroku.com/policy/tos)
+  - [Heroku  Tos](https://www.heroku.com/policy/tos)
