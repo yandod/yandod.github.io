@@ -13,8 +13,8 @@ published: true
 Geek Feminism Wikiにはテック業界で起きたインシデントの際に行われた発言を題材に良い謝罪の方法や心構えが文章化されています。題材がテック業界に特化しているので一般的な炎上の対処法よりも実感を持って学ぶことができる題材なのでかいつまんでご紹介しようと思います。
 
 - 出典
-  - [Apologies | Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Apologies)
-  - [So you made a mistake | Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/So_you_made_a_mistake)
+  - [Apologies \| Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Apologies)
+  - [So you made a mistake \| Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/So_you_made_a_mistake)
 
 ## 失敗をしてしまった時
 
