@@ -80,7 +80,7 @@ OKRは名前は非常に有名になりましたが、実際に運用すると�
 
 下記の講演は英語ですが、最初の5分ほどで書籍にも出てくる最初のエピソードに触れています。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yj9GLeNCgm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yj9GLeNCgm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 効果的にフィードバックを与える為のフレームワークやテクニックがグーグルやアップルで経験したエピソードを元に解説されておりとても読みやすいです。
 最終的に解雇に至るようなすれ違いがどうして生まれてしまったのかという実例を知っておくことはマネージャーとしてメンバーにフィードバックを行う上で知っておくと心強い内容かと思います。
