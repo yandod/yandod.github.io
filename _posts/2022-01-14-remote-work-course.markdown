@@ -43,6 +43,8 @@ published: true
 全体で4週間のカリキュラム構成になっており、それぞれの週で視聴する動画が40分程度あり、理解度クイズがあります。
 課題を行う時間も含めて11時間となっていますが、もう少し早く終わったように感じます。まとまった時間が取れれば、どんどん先に進むことも出来るようになっています。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Couseraの講座、どんな構成かを見る時はシラバス(Syllabus)のタブをクリックすると視聴するべきビデオや読む文書の数がわかる。 <a href="https://t.co/lslOhSF8po">pic.twitter.com/lslOhSF8po</a></p>&mdash; Yusuke Ando🏳‍🌈 (@yando) <a href="https://twitter.com/yando/status/1482941773068443648?ref_src=twsrc%5Etfw">January 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 動画には残念ながら日本語の字幕はありませんが、英語のキャプションはついており再生速度なども変えられます。
 各動画も数分の尺になっていて、モバイルアプリにも対応しており視聴環境は非常に良いです。
 またグローバルな企業ということでかなりわかりやすい英語で話してくれますので、気になった所を戻ったり、翻訳にかけたりすれば英語に自信がない人でも挑戦しやすい部類かなと思います。
