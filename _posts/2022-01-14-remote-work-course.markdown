@@ -17,7 +17,7 @@ published: true
 他の国や地域のチームやメンバーとのコラボレーションなど、リモートワーク的な要素はありましたがこれだけ長期化する事は個人的にも予想外でした。
 そんな中で自分達の仕事の進め方を更に改善するにはどのような方法があるかに興味が出てきました。
 
-そこで見つけたのがCouseraで公開されている講座"[How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management)"です。
+そこで見つけたのがCourseraで公開されている講座"[How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management)"です。
 
 今回はこの講座を無事受講して、[認定証も発効された](https://coursera.org/share/00dd2dd41cce010dec2c774792fd4a20)ので講座で印象に残った点やバックグラウンドをご紹介します。
 
@@ -43,7 +43,7 @@ published: true
 全体で4週間のカリキュラム構成になっており、それぞれの週で視聴する動画が40分程度あり、理解度クイズがあります。
 課題を行う時間も含めて11時間となっていますが、もう少し早く終わったように感じます。まとまった時間が取れれば、どんどん先に進むことも出来るようになっています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Couseraの講座、どんな構成かを見る時はシラバス(Syllabus)のタブをクリックすると視聴するべきビデオや読む文書の数がわかる。 <a href="https://t.co/lslOhSF8po">pic.twitter.com/lslOhSF8po</a></p>&mdash; Yusuke Ando🏳‍🌈 (@yando) <a href="https://twitter.com/yando/status/1482941773068443648?ref_src=twsrc%5Etfw">January 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Courseraの講座、どんな構成かを見る時はシラバス(Syllabus)のタブをクリックすると視聴するべきビデオや読む文書の数がわかる。 <a href="https://t.co/lslOhSF8po">pic.twitter.com/lslOhSF8po</a></p>&mdash; Yusuke Ando🏳‍🌈 (@yando) <a href="https://twitter.com/yando/status/1482941773068443648?ref_src=twsrc%5Etfw">January 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 動画には残念ながら日本語の字幕はありませんが、英語のキャプションはついており再生速度なども変えられます。
 各動画も数分の尺になっていて、モバイルアプリにも対応しており視聴環境は非常に良いです。
@@ -96,6 +96,6 @@ GitLabのようなソースコード管理、タスク管理をしていれば�
 
 自分の場合は半分くらいまで受講した段階で、修了までやりきるという気持ちも込めて購入しました。使った時間と費用を考えた上でもとても満足のいく体験でした。
 
-自分の組織やチームでのリモートワークの改善について考えたい、海外などでどのような取り組みが行われているかを知ってみたい、Couseraのようなオンライン講座に挑戦してみたいといった人にとってはおすすめです。
+自分の組織やチームでのリモートワークの改善について考えたい、海外などでどのような取り組みが行われているかを知ってみたい、Courseraのようなオンライン講座に挑戦してみたいといった人にとってはおすすめです。
 
 - [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management)
