@@ -97,3 +97,9 @@ MBTIのような性格テストを使った適性検査は単独でキャリア�
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yandod-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00QKMQ4DO&linkId=16b3585a04160e5367419e5986335368"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yandod-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4297120666&linkId=27a3ebad7cb514fa0d23c5aa55b8f90e"></iframe>
+
+## (追記)記事への反応
+
+momit.fmのポッドキャストで記事の内容や出演者のお二人の感想を紹介して頂きました。ありがとうございます。
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ybZXrlFN1onIXyGzg4xVl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
