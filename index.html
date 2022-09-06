@@ -12,17 +12,27 @@ layout: default
       {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="https://yandod.github.io{{ post.url }}">{{ post.title }}</a>
+        {% if post.image %}
+        <div class="post-tumbnail-box">
+          <img src="{{post.image}}"/>
+        </div>
+        {% endif %}
+
+        <div class="post-title">
+          <a class="post-link" href="https://yandod.github.io{{ post.url }}">{{ post.title }}</a>
+        </div>
+        <div class="post-summary-box">
+          {{post.content | strip_html | truncate: 100 }}
+        </div>
         <span class="post-social">
         {% if posttime > httpstime %}
         <a href="http://b.hatena.ne.jp/entry/s/yandod.github.io{{ post.url }}" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-        <iframe src="//www.facebook.com/plugins/like.php?href=https://yandod.github.io{{ post.url }}&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
         {% else %}
         <a href="http://b.hatena.ne.jp/entry/yandod.github.io{{ post.url }}" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
-        <iframe src="//www.facebook.com/plugins/like.php?href=http://yandod.github.io{{ post.url }}&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
         {% endif %}
         </span>
       </li>
+      <hr>
     {% endfor %}
   </ul>
   <p>
