@@ -226,10 +226,15 @@ hr {
 }
 
 .post-content {
-  width: 620px;
+  max-width: 620px;
   margin: auto;
 }
-
+@media screen and (max-width: 600px) {
+  .post-content {
+    width: auto;
+    margin: auto;
+  }
+}
 .post-content > * { margin: 20px 0; }
 
 
