@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: privacy policy for ミケの炒飯食堂
 permalink: /friedrice/
 ---
 
