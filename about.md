@@ -7,7 +7,7 @@ permalink: /about/
 - [github profile](https://github.com/yandod)
 - [linkedin profile](https://www.linkedin.com/in/yandod/)
 - [BBT univ profile](https://bbt.ac/faculty/yusuke-ando.html)
-- [Seisen unib profile](https://www.seisen-u.ac.jp/faculty/global/social_design/professors/yusuke-ando.html)
+- [Seisen univ profile](https://www.seisen-u.ac.jp/faculty/global/social_design/professors/yusuke-ando.html)
 - [research map](https://researchmap.jp/yandod)
 
 ## 著書
