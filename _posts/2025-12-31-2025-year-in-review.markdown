@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "2025年の振り返り"
+date:   2025-12-30 10:00:00 +9:00
+image: /images/2025.png
+categories:
+  - blog
+published: true
+---
+
+今年はこれまで以上にAIによる変化を感じる年になったのではないでしょうか。日常生活や様々な場でもAIに関する話題が増え、その内容のレベルもどんどん上がっている、まさにドッグイヤーと呼べる一年でした。
+
+私は、みんなのコード、ビジネス・ブレークスルー大学、清泉女子大学と、3つの勤務先それぞれでAIに関する議論を行ってきましたが、単なる使い方や生産性の話を超えた、倫理についての話題や、人間にとってのAIの意味を問うような本質的な会話が増えてきたと実感しています。おそらくこの傾向は来年も加速するでしょうが、2025年時点でのスナップショットとしてここに記録しておきます。
+
+# 生成AIの利活用の推進
+
+みんなのコードでは、引き続き学校教育での生成AI活用の推進に注力し、教材の提供や研修などの支援を行いました。今年は生成AIを実際の学校の授業で活用して得られた知見を、研究発表・論文の形で発信しています。また、年始にはTokyo MXや日経クロステックなどのメディアにお声がけいただく機会もありました。以前から論文は執筆していましたが、外部の方からの助言や共同研究会を行うといった活動も加わり、研究活動の幅が広がりました。
+
+組織としては、代表が杉之原さんに交代し、早い時期からVibe Codingへの取り組みや、資格試験対策の社内勉強会を実施するなど、変化が続いています。また、コーディングエージェントのDevinの導入にも取り組み、その成果を外部の勉強会で発表しました。
+
+とにかく「使ってみる」、最初の一歩を踏み出すという意味での「利用」は引き続き重要な要素です。しかし今後は、どのような成果が出たのか、習熟度に差が出るのか、長期的な変化はあるのかといった点に挑戦し、その成果を把握して社会に還元していくフェーズに入ったと強く実感しています。
+
+**研究発表・論文**
+
+- [【HAIシンポジウム】学校向け生成AI教材の対話履歴からみる生徒の生成AI対話傾向の分析](https://hai-conference.net/symp2025/proceedings/html/paper/paper-P1-19.html) 
+- [【情報処理学会全国大会】高等学校プログラミング学習教材への生成AIの導入と効果　※共著](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/2H-02.html) 
+- [【人工知能学会全国大会】高等学校プログラミング学習教材へのGPT-4oによるアシスタントの導入](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_1Win465/_article/-char/ja/) 
+- [【日本教育工学会研究会】子どものプロンプトと教師アンケートに基づく学校での生成AI利用の実態調査](https://www.jstage.jst.go.jp/article/jsetstudy/2025/3/2025_JSET2025-3-B5/_article/-char/ja)
+
+# 対面・オンラインでの学生指導
+
+今年はビジネス・ブレークスルー大学大学院での講義を担当することになり、また昨年から担当している清泉女子大学での担当講義も増えたことで、合計で200人以上の学生にAIやデータサイエンスを教えています。AIやプログラミングは変化が激しい分野ですが、新たに学ぶ人のための視点や切り口を考えるという点に、大きなやりがいを感じています。
+
+一方で、若い学生も大学院生も、まだまだAIのメリットとリスクの双方を過小評価していると感じる場面があり、講義などではその点について問い直すようにしています。生成AIを日々使いこなしていると感じている学生でさえ、生成AIが視覚障がい者の生活にもたらす大きなメリットや、逆にAI技術が戦争に利用される可能性といった話題を紹介すると、驚く方が多いです。
+
+講義では、単なるAIのハウツーや基礎知識にとどまらず、社会を広く見渡し、AIやテクノロジーとの関連性が注目されにくい論点や場面にも目を向けることの重要性を伝えています。その結果、学生たちが表面的な使い方を超えた、より深いテーマに関心を持つようになっていると実感しています。
+
+**担当した科目・講義**
+
+- [BBT] ITサービス基礎  
+- [BBT] AIとメタバース  
+- [BBT大学院] 経営戦略の為のAIリスキリング  
+- [清泉女子大学] 地球市民と社会  
+- [清泉女子大学] データサイエンス入門  
+- [清泉女子大学] 情報スキル３（生成AI）  
+- [清泉女子大学] 情報系インターン講座
+
+# 学生の関心を通じた未来の探究
+
+今年からゼミでの活動などを清泉女子大学のNoteに投稿しています。ゼミでの活動は、常に話題になっている題材などを投げかけ、学生の興味に基づいたアレンジを見守るような形で進めています。
+
+今の大学生は生成AIネイティブの最初の世代であり、前提知識が異なるため、社会人やシニア層に比べて生成AIの捉え方が柔軟であることにいつも驚かされます。学生の中にはGeminiのアンバサダーとして活動する学生もおり、私も刺激をもらっています。また、ChatGPTとGeminiを比較した実験や、AIの回答の質を見極める実験などは、今後なんらかの形で研究成果として発表したいと考えています。
+
+**ゼミでの活動の記事**
+
+- ​​[【ゼミ活動報告】安藤ゼミでの音楽生成AI体験](https://note.com/chimin_official/n/n712ba65dd593)   
+- [【ゼミ活動報告】AIと人間の関係を考える「タスク分けワークショップ」](https://note.com/chimin_official/n/n5b5493dc1d26)  
+- [【ゼミ活動報告】ChatGPTとGeminiの性能を比較する実験](https://note.com/chimin_official/n/n5346a306e442)   
+- [【ゼミ活動報告】3Dプリンターで作ってみよう](https://note.com/chimin_official/n/n8af2d6f7cc8e)  
+- [【ゼミ活動報告】自分が育てたChatGPTはどんな性格なのか？](https://note.com/chimin_official/n/n40048d42d0ee) 
+- [【ゼミ活動報告】AIとのお絵かき対決ゲームの試遊に参加しました](https://note.com/chimin_official/n/n0b2438f0e89b) 
+
+# 活動履歴
+
+* １月  
+  * [日経クロステック取材](https://xtech.nikkei.com/atcl/nxt/column/18/03078/012800002/)  
+  * [Tokyo MX出演](https://s.mxtv.jp/bangumi/program.html?date=20250124&ch=1&hm=2057)  
+  * 共創ワークショップ・展示参加 [AIは生命になりうるか？](https://ccbt.rekibun.or.jp/camp/volume5)  
+    * [Future Ideations Camp Vol.5：AIは生命になり得るか？／Can AI Become Life?](https://www.youtube.com/watch?v=zA-SvzpXVCY)  
+* ２月  
+  * 【報告会登壇】[令和6年度 次世代の学校・教育現場を見据えた先端技術・教育データの利活用推進(最先端技術及び教育データ利活用に関する実証事業）：文部科学省](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416148_00005.htm)  
+  * 【ポスター発表】[HAIシンポジウム](https://hai-conference.net/symp2025/proceedings/html/paper/paper-P1-19.html)  
+* ３月  
+  * 生成AIパスポート試験合格  
+  * 【学会参加】感性工学会　参加（聴講）  
+  * 【学会参加】日本教育工学会　参加（聴講）  
+  * 【研究発表・共著者】[情報処理学会](https://www.ipsj.or.jp/event/taikai/87/WEB/data/pdf/2H-02.html)  
+  * [Roo Code (Roo Cline)でAIによる半自動プログラミングを試す](https://www.youtube.com/watch?v=fiOAvqi5ZvU)  
+* ４月  
+  * 【清泉女子大学】[新入生合宿](https://note.com/chimin_official/n/na82a24682783)  
+  * 【BBT】AIとメタバース講義収録  
+  * ​​[【ゼミ活動報告】安藤ゼミでの音楽生成AI体験](https://note.com/chimin_official/n/n712ba65dd593)  
+  * 【清泉女子大学】地球市民と社会  
+  * 【清泉女子大学】データサイエンス入門  
+* ５月  
+  * 【ポスター発表】[人工知能学会](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_1Win465/_article/-char/ja/)  
+* ６月  
+  * [【ゼミ活動報告】AIと人間の関係を考える「タスク分けワークショップ」](https://note.com/chimin_official/n/n5b5493dc1d26)  
+  * 【ゼミ】Vibe Codingのワークショップ  
+* ７月  
+  * [【ブログ】グローバル企業から少人数組織のCTOに挑戦して気づいたこと](https://yandod.github.io/blog/2025/07/05/learnings-from-acting-as-cto-in-npo/)  
+  * 【プレスリリース】[「みんな」の可能性を、テクノロジーの力で。みんなのコード代表の交代および理事体制のお知らせ](https://code.or.jp/news/20250716_01/)  
+  * 【勉強会登壇】[NPOでのDevinの活用 - Speaker Deck](https://speakerdeck.com/codeforeveryone/devin-at-non-profit-organization)  
+  * [【ゼミ活動報告】ChatGPTとGeminiの性能を比較する実験](https://note.com/chimin_official/n/n5346a306e442)  
+  * [【ゼミ活動報告】AIとのお絵かき対決ゲームの試遊に参加しました](https://note.com/chimin_official/n/n0b2438f0e89b)  
+* ８月  
+  * [オープンキャンパスでのロボットアーム活用](https://www.facebook.com/SeisenUniv/posts/pfbid02XrzHxvpYcTRkd3yGxqX1Pim39TsyxD5TH6E5q71Tc7xK6y23Jc5GekCasoPPxL3Ml)  
+  * [【ゼミ活動報告】3Dプリンターで作ってみよう](https://note.com/chimin_official/n/n8af2d6f7cc8e)  
+  * [【教員紹介】グローバルIT企業での経験を教育へ(安藤 祐介)](https://note.com/chimin_official/n/n12facec8d5a8)  
+  * 【学会参加】全国高等学校情報教育研究会  
+* ９月  
+  * 【学会参加】[日本心理学会](https://note.com/chimin_official/n/n297a2198a340)  
+  * 【海外研修参加】[VIAアメリカ](https://www.instagram.com/p/DO7APzvD9hw/?img_index=1)  
+  * 【清泉女子大学】北海道ゼミ合宿（データセンター見学・学校見学）  
+* 10月  
+  * 【研究発表】[JSET研究会](https://www.jstage.jst.go.jp/article/jsetstudy/2025/3/2025_JSET2025-3-B5/_article/-char/ja)「子どものプロンプトと教師アンケートに基づく学校での生成AI利用の実態調査」  
+  * [いますぐ実践できるAIの業務活用の第一歩 ── Salesforceが支援する非営利団体向け「生成AI活用入門ワークショップ」](https://www.salesforce.com/jp/news/stories/npo_ai_workshop/)  
+  * 【清泉女子大学】情報スキル３（生成AI）  
+  * 【清泉女子大学】情報系インターン講座  
+* 11月  
+  * 【BBT】[大学院講義動画](https://www.ohmae.ac.jp/program/subject/17729/)作成  
+  * 太子堂中学校見学へ学生を帯同  
+* 12月  
+  * 【BBT】[大学院講義開始](https://x.com/BBTMBA/status/1997428335937224855)「経営戦略の為のAIリスキリング」  
+  * [【ゼミ活動報告】自分が育てたChatGPTはどんな性格なのか？](https://note.com/chimin_official/n/n40048d42d0ee)
