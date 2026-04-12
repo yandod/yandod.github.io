@@ -55,7 +55,7 @@ permalink: /about/
   - PHPカンファレンス2015に来日した、PHPの作者 ラスマス・ラードフ氏へのインタビュー記事。
 - [famitsu.com](https://www.famitsu.com/news/201511/30094228.html)
   - バンダイナムコ主催のゲームジャムに出場、ネオゲーム喫茶876賞を受賞した際の記事。
-- [frogagent.com](http://school.frogagent.com/interview/yusuke-ando/)
+- [frogagent.com]([http://school.frogagent.com/interview/yusuke-ando/](https://web.archive.org/web/20241225010852/http://school.frogagent.com/interview/yusuke-ando/))
   - Frog Schoolのポッドキャストに出演。文字起こしあり。
 - [leapmotion.com](https://blog.leapmotion.com/lets-make-fried-rice-tool-tracking-casual-cooking/)
   - Leap Motionのオンラインハッカソンにてセミファイナリストに選ばれた際のインタビュー記事。
